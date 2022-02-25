@@ -137,6 +137,7 @@ img.profile-pic {
 .bg-color-grey {
 	background-color: #F2F2F2;
 	background-image: url('MG_BG.jpg');
+	background-repeat: no-repeat;
 }
 
 .bg-color-white {
