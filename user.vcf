@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:yuhsiang.wong@mandai.com
 TEL;type=WORK;type=VOICE:+65 9795 9891
 item1.ADR;type=WORK;type=pref:;;80 Mandai Lake Road;;;729826;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:mandai.com
+item2.URL;type=pref:www.mandaiglobal.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
