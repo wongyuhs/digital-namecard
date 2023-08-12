@@ -8,9 +8,7 @@ ORG:Mandai X;
 TITLE:Head, Ecotourism, NBS & Consulting
 EMAIL;type=INTERNET;type=WORK;type=pref:yuhsiang.wong@mandai.com
 TEL;type=WORK;type=VOICE:+65 9795 9891
+ADR;type=WORK;type=pref:;;80 Mandai Lake Road;;;729826;Singapore
+URL:https://www.mandaiX.com
 URL:https://www.linkedin.com/in/yuhsiang/
-item1.ADR;type=WORK;type=pref:;;80 Mandai Lake Road;;;729826;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:www.mandaiX.com
-item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
