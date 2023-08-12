@@ -12,4 +12,6 @@ item1.ADR;type=WORK;type=pref:;;80 Mandai Lake Road;;;729826;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.mandaiX.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:www.linkedin.com/in/yuhsiang/
+item3.X-ABLabel:_$!<LinkedIn>!$_
 END:VCARD
