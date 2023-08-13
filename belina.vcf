@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Lee;Belina;;;
+FN:Belina Lee 
+ORG:Mandai X;
+TITLE:CEO, Mandai X
+EMAIL;type=INTERNET;type=WORK;type=pref:belina.lee@mandai.com
+TEL;type=WORK;type=VOICE:+65 9623 0754
+ADR;type=WORK;type=pref:;;80 Mandai Lake Road;;;729826;Singapore
+URL:https://www.mandaiX.com
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/belina-lee-bb4056b8
+END:VCARD
